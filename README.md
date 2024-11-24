@@ -46,14 +46,17 @@
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
   </a>
+  <!-- Power BI -->
   <a href="https://www.microsoft.com/en-us/power-bi" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original-wordmark.svg" alt="Power BI" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Power_BI_Logo_2022.svg" alt="Power BI" width="40" height="40" />
   </a>
+  <!-- Excel -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="Excel" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Excel_2013-2021_logo_%28Light%29.svg" alt="Excel" width="40" height="40" />
   </a>
+  <!-- MS Office -->
   <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/office/office-original-wordmark.svg" alt="MS Office" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_logo_%282013-2019%29.svg" alt="MS Office" width="40" height="40" />
   </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
