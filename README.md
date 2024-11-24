@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
@@ -63,8 +64,8 @@ Building scalable, secure, and efficient solutions for real-world problems. Alwa
 ---
 
 ### 🔗 **Latest Projects**:
-- **[Lohono Sales Portal](https://github.com/manesiddhesh/lohono-sales-portal)**: Internal portal to streamline sales operations and improve team efficiency.
-- **[NSS Blood Directory](https://github.com/manesiddhesh/nss-blood-directory)**: A web application for managing blood donations and camps.
+- **[NSS Blood Directory](https://github.com/manesiddhesh/NSS-Blood-Directory/tree/my-new-branch)**: A web application for managing blood donations and camps.
+- **[Sales Portal LSP](https://github.com/manesiddhesh/Sales-Portal-LSP)**: Internal portal to streamline sales operations and improve team efficiency.
 
 ---
 
