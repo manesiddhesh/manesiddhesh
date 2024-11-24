@@ -46,11 +46,14 @@
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
   </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40" />
+  <a href="https://www.microsoft.com/en-us/power-bi" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original-wordmark.svg" alt="Power BI" width="40" height="40" />
   </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" />
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="Excel" width="40" height="40" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/office/office-original-wordmark.svg" alt="MS Office" width="40" height="40" />
   </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
@@ -60,12 +63,6 @@
   </a>
   <a href="https://github.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="Excel" width="40" height="40" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/office/office-original.svg" alt="MS Office" width="40" height="40" />
   </a>
 </p>
 
@@ -83,7 +80,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manesiddhesh&" alt="GitHub Streak" />
 </p>
-
----
-
-This version includes your updated list of languages and tools in a neat, visually appealing format!
