@@ -63,8 +63,8 @@ Building scalable, secure, and efficient solutions for real-world problems. Alwa
 ---
 
 ### 🔗 **Latest Projects**:
-- **[Poochyx India - E-commerce Pet Store](https://github.com/manesiddhesh/poochyxindia)**: Built using Shopify.
-- **[Lohono Sales Portal](https://github.com/manesiddhesh/lohono-sales-portal)**: Developed an internal portal to streamline sales operations.
+- **[Lohono Sales Portal](https://github.com/manesiddhesh/lohono-sales-portal)**: Internal portal to streamline sales operations and improve team efficiency.
+- **[NSS Blood Directory](https://github.com/manesiddhesh/nss-blood-directory)**: A web application for managing blood donations and camps.
 
 ---
 
